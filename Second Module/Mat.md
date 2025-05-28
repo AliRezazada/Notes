@@ -23,7 +23,7 @@ This will clone a copy of matrix A to Mat F, and changes Mat F does to the matri
 
 #  Creating a Mat Object Explicitly
 
-`Mat M(2,2, CV_8UC3, Scalar(0,0,255));
+`Mat M(2,2, CV_8UC3, Scalar(0,0,255));`
 `cout << "M = " << endl << " " << M << endl << endl;`
 
 The first line of code means you create a 2x2 matrix (2,2, ) the CV_8UC3 indicates 8 bit unsigned integer C3 = 3 channel colour scheme like RGB and scalar (0,0,255) means Blue = 0, Green = 0, Red = 255.
