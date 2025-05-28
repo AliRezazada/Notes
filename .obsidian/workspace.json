@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Module/Mat.md",
+                "file": "Second Module/How to Scan Images, Lookup tables and Time management with OpenCV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mat"
+              "title": "How to Scan Images, Lookup tables and Time management with OpenCV"
             }
           }
         ]
@@ -184,14 +184,16 @@
   },
   "active": "a0f8f57d40792ffc",
   "lastOpenFiles": [
+    "Pasted image 20250528093937.png",
+    "Pasted image 20250528093922.png",
+    "Second Module/Mat.md",
     "Pasted image 20250527163202.png",
     "Pasted image 20250527163030.png",
-    "Second Module/Mat.md",
     "Untitled 1.canvas",
     "Pasted image 20250527154713.png",
     "Pasted image 20250527154709.png",
     "Untitled.canvas",
     "Second Module",
-    "Second Module/Untitled 1.md"
+    "Second Module/How to Scan Images, Lookup tables and Time management with OpenCV.md"
   ]
 }
